@@ -1,0 +1,62 @@
+﻿.startPageDiv {
+    margin-top: 100px !important;
+}
+
+.smallMarginTop {
+    margin-top: 20px !important;
+}
+
+.textCenterAlign {
+    text-align: center;
+    color: #000;
+    padding-bottom: 10px;
+}
+
+#changeFontSize {
+    font-size: 12px !important;
+    padding: 0 0 0 15px ;
+}
+
+.alignCenter {
+    text-align: center !important;    
+}
+
+.aboutUsPic {
+    width: 100%;
+    display: block;     /*will only work on divs, img, p, not inline*/
+    margin: 0 auto;     /*to center align block element*/
+}
+
+.centerAlignBlock {
+    display: block;
+    margin: 0 auto;
+}
+
+.buttonRightPadding {
+    margin-right: 20px;
+}
+
+.leftPadding {
+    padding-left: 65px;
+}
+
+.bottomPadding {
+    padding-bottom: 40px;
+}
+
+.nav, .pagination, .carousel, .panel-title a { 
+    cursor: pointer; 
+
+}
+
+.boxShadowImg {
+    box-shadow: 10px 10px 5px #888
+}
+
+.buttonPaddingTopRight {
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+
+
